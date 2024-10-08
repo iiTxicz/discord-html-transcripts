@@ -52,6 +52,7 @@ export default async function render({ messages, channel, callbacks, ...options 
         <meta name="twitter:title" content="Pulse | System Transcript" />
         <meta name="twitter:description" content="Pulse Customs is customized to meet your specific needs, encompassing everything from strategic design and compelling content to visually striking elements." />
         <meta name="twitter:image" content="https://cdn.pulsecustoms.net/static/pulse/images/asset8.png" />
+        <meta name="theme-color" content="#ec4c74" />
 
         {/* favicon */}
         <link
