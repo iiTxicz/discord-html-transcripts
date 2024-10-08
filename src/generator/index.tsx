@@ -48,6 +48,10 @@ export default async function render({ messages, channel, callbacks, ...options 
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Pulse | System Transcript" />
+        <meta name="twitter:description" content="Pulse Customs is customized to meet your specific needs, encompassing everything from strategic design and compelling content to visually striking elements." />
+        <meta name="twitter:image" content="https://cdn.pulsecustoms.net/static/pulse/images/asset8.png" />
 
         {/* favicon */}
         <link
